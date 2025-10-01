@@ -1,5 +1,7 @@
 {
     "compilerOptions": {
-        "baseUrl": "./packages"
+        "baseUrl": "./packages",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true
     }
 }
